@@ -1,0 +1,4 @@
+username: a7e0863e1a46176dcb28__cr.pk
+Password: 70e6c2f99e58ae79
+Proxy Host: gw.dataimpulse.com
+Proxy Port: 823
