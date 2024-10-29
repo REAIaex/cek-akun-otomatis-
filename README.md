@@ -1,4 +1,4 @@
-# HURRICANE BETA 
+# AEX BETA
 
 My Proxy App adalah aplikasi Python yang memungkinkan pengguna untuk terhubung ke proxy dan mengakses layanan seperti Facebook dengan menggunakan proxy yang telah dikonfigurasi.
 
@@ -13,7 +13,8 @@ My Proxy App adalah aplikasi Python yang memungkinkan pengguna untuk terhubung k
 1. Clone repositori ini:
 
    ```bash
-   sudo apt install python3 -y
+   git clone https://github.com:REAIaex/cek-akun-otomatis-.git
+   apt install python3 -y
    pip install request 
    pip install colorama
    python main.py 
